@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Shad2018_Practical5.iml" filepath="$PROJECT_DIR$/Shad2018_Practical5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_animation/fragment_animation.iml" filepath="$PROJECT_DIR$/fragment_animation/fragment_animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_backstack/fragment_backstack.iml" filepath="$PROJECT_DIR$/fragment_backstack/fragment_backstack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_backstack_up/fragment_backstack_up.iml" filepath="$PROJECT_DIR$/fragment_backstack_up/fragment_backstack_up.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_create_layout/fragment_create_layout.iml" filepath="$PROJECT_DIR$/fragment_create_layout/fragment_create_layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_create_runtime/fragment_create_runtime.iml" filepath="$PROJECT_DIR$/fragment_create_runtime/fragment_create_runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_lifecycle/fragment_lifecycle.iml" filepath="$PROJECT_DIR$/fragment_lifecycle/fragment_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_navigation/fragment_navigation.iml" filepath="$PROJECT_DIR$/fragment_navigation/fragment_navigation.iml" />
+    </modules>
+  </component>
+</project>
