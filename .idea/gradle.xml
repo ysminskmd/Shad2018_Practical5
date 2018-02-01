@@ -16,6 +16,8 @@
             <option value="$PROJECT_DIR$/fragment_create_runtime" />
             <option value="$PROJECT_DIR$/fragment_lifecycle" />
             <option value="$PROJECT_DIR$/fragment_navigation" />
+            <option value="$PROJECT_DIR$/fragment_tablet" />
+            <option value="$PROJECT_DIR$/fragment_tabs" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

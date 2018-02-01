@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/fragment_create_runtime/fragment_create_runtime.iml" filepath="$PROJECT_DIR$/fragment_create_runtime/fragment_create_runtime.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragment_lifecycle/fragment_lifecycle.iml" filepath="$PROJECT_DIR$/fragment_lifecycle/fragment_lifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragment_navigation/fragment_navigation.iml" filepath="$PROJECT_DIR$/fragment_navigation/fragment_navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_tablet/fragment_tablet.iml" filepath="$PROJECT_DIR$/fragment_tablet/fragment_tablet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_tabs/fragment_tabs.iml" filepath="$PROJECT_DIR$/fragment_tabs/fragment_tabs.iml" />
     </modules>
   </component>
 </project>

@@ -1,1 +1,4 @@
-include ':app', ':fragment_lifecycle', ':fragment_create_layout', ':fragment_create_runtime', ':fragment_navigation', ':fragment_backstack', ':fragment_animation', ':fragment_backstack_up'
+include ':app', ':fragment_lifecycle',
+        ':fragment_create_layout', ':fragment_create_runtime',
+        ':fragment_navigation', ':fragment_backstack', ':fragment_animation',
+        ':fragment_backstack_up', ':fragment_tablet', ':fragment_tabs'
